@@ -1,0 +1,10 @@
+INSERT INTO employee (EMPID, name, designation, email, phonenumber, salary) VALUES (10101, 'Rohit', 'Senior Developer', 'rohit@tcs.com', 9874562310, 20000.00),
+INSERT INTO employee (EMPID, name, designation, email, phonenumber, salary) VaLUES (10102, 'Subhman', 'Designer', 'subhman@tcs.com', 9874562458, 10000.00),
+INSERT INTO employee (EMPID, name, designation, email, phonenumber, salary) VaLUES (10103, 'Virat', 'Team Lead', 'virat@tcs.com', 9874325310, 200000.00),
+INSERT INTO employee (EMPID, name, designation, email, phonenumber, salary) VaLUES (10104, 'Shreyas', 'Senior Developer', 'shreyas@tcs.com', 9587462310, 25300.00),
+INSERT INTO employee (EMPID, name, designation, email, phonenumber, salary) VaLUES (10105, 'Rahul', 'Tester', 'rahul@tcs.com', 6874562310, 15420.00),
+INSERT INTO employee (EMPID, name, designation, email, phonenumber, salary) VaLUES (10106, 'Axar', 'Product Analyst', 'axar@tcs.com', 9836962310, 25444.00),
+INSERT INTO employee (EMPID, name, designation, email, phonenumber, salary) VaLUES (10107, 'Hardik', 'Inventor', 'hardik@tcs.com', 9874500010, 32525.00),
+INSERT INTO employee (EMPID, name, designation, email, phonenumber, salary) VaLUES (10108, 'Kuldeep', 'Junior Designer', 'kuldeep@tcs.com', 9874250310, 25874.00),
+INSERT INTO employee (EMPID, name, designation, email, phonenumber, salary) VaLUES (10109, 'Bumrah', 'Admin', 'bumrah@tcs.com', 9874472310, 25463.00),
+INSERT INTO employee (EMPId, name, designation, email, phonenumber, salary) VaLUES (10110, 'Siraj', 'Business Analyst', 'siraj@tcs.com', 9547562310, 12547.00);
